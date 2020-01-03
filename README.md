@@ -4,4 +4,4 @@
 
 如果对你有所帮助，欢迎赞助哦^_^ 蟹蟹
 
-![](C:\Users\Administrator\Pictures\微信图片_20200103095945.jpg)
+![image](https://github.com/thor-shuang/MyGitBook/blob/master/Welcome_to_sponsor.jpg)
